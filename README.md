@@ -1,7 +1,10 @@
 # Welcome
 
-I am a software developer in the Financial sector creating software for loan institutes and banks, insurancecompanies.
+I am a software developer in the financial sector creating software for banks, loan institutes and insurancecompanies but with an interest for other sectors so if you are a recruiter dont hesitate to contact me about the next job opportunity! :)
 
+The last years i been working remote as an IT consultant for some of the big companies in the world coolaberating with developers in other countries creating software together.
+
+My career has progressed from the start where i often worked on web burous creating websites fast for some of the biggest brands and companies in the world. The next step was working for product companies where the company has a product that they live of that needs maintenance and developing new features. I ran my own development company for many years parallelly with working full time 8-17.
 
 
 ## 🛠️ Technologies & Tools
