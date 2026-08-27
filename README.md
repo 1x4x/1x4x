@@ -1,6 +1,8 @@
 # Welcome traveler!
 
-Welcome to my GitHub profile! I'm passionate about coding and building amazing projects and loves to explore new technologies and contribute to the open-source community.
+These are amazing times where AI can build systems for us! Who would have believed this some years ago? Now every developer is able to fastly produce production ready code easly without burning out. Just tell the AI what you want done and go grab a coffee and talk to the receptionist for a while.
+
+I have always been passionate about coding and building amazing projects and loves to explore new technologies.
 
 
 
@@ -10,9 +12,9 @@ Welcome to my GitHub profile! I'm passionate about coding and building amazing p
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📊 GitHub Stats
+## 📊 Trading
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1x4x&show_icons=true&theme=radical)
+asdf
 
 ## 📫 How to reach me
 
