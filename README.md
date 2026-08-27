@@ -1,6 +1,6 @@
 # Welcome traveler!
 
-These are amazing times where AI can build systems for us! Who would have believed this some years ago? Now every developer is able to fastly produce production ready code easly without burning out. Just tell the AI what you want done and go grab a coffee and talk to the receptionist for a while.
+These are amazing times where AI can build systems for us! Who would have believed this some years ago? Now every developer is able to fastly produce production ready code easily without burning out. Just tell the AI what you want done and go grab a coffee and talk to the receptionist for a while.
 
 I have always been passionate about coding and building amazing projects and loves to explore new technologies.
 
