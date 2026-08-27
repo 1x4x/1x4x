@@ -1,12 +1,12 @@
-# Welcome traveler!
+# Welcome
 
-These are amazing times where AI can build systems for us! Who would have believed this some years ago? Now every developer is able to fastly produce production ready code easily without burning out. Just tell the AI what you want done and go grab a coffee and talk to the receptionist for a while.
-
-I have always been passionate about coding and building amazing projects and loves to explore new technologies.
+I am a software developer in the Financial sector creating software for loan institutes and banks, insurancecompanies.
 
 
 
 ## 🛠️ Technologies & Tools
+
+## I have a love for exploring new technologies and always keep up with the latest versions of the development tools to take advantage of the new features as they are available to us.
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
