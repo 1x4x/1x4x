@@ -1,10 +1,8 @@
-# Hi there! 👋
+# Welcome traveler!
 
-Welcome to my GitHub profile! I'm passionate about coding and building amazing projects.
+Welcome to my GitHub profile! I'm passionate about coding and building amazing projects and loves to explore new technologies and contribute to the open-source community.
 
-## 🚀 About Me
 
-I'm a developer who loves to explore new technologies and contribute to the open-source community.
 
 ## 🛠️ Technologies & Tools
 
