@@ -11,9 +11,9 @@ Every day I am building fantastic things together with amazing people in our Lex
             :wavy_dash:5 Garage<br>
 :arrow_backward:1999 :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
 <br>
-            :wavy_dash:FizzBuzz = 1000<br>
-            :wavy_dash:MaximumNumber = 1001<br>
-            :wavy_dash:SortTwoNumbers = 1002<br>  
+            :wavy_dash:1000 FizzBuzz<br>
+            :wavy_dash:1001 MaximumNumber<br>
+            :wavy_dash:1002 SortTwoNumbers<br>  
 :arrow_backward:2999<br>
 :arrow_backward:3999<br>
 
