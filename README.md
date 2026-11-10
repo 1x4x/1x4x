@@ -3,7 +3,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 # Throw an :eye: at what I have done in school so far<br>
 
-1-999 :seedling: School Exercises :blossom:<br>
+:arrow_backward:1000 :seedling: School Exercises :blossom:<br>
 1000-1999<br>
 2000-2999<br>
 3000-3999<br>
