@@ -1,5 +1,5 @@
 # Welcome, I'm a happy developer :first_quarter_moon_with_face:
-Every day I am building fantastic things together with amazing people in our Lexicon school class. I programmed for long time and embrace AI as one of the great inventions
+Every day I am building fantastic things together with amazing people in our Lexicon school class. I programmed for long time and embrace AI as one of the great inventions that it is
 
 # Throw an :eye: at what I have done in school so far<br>
 
