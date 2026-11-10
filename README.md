@@ -3,7 +3,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 # Throw an :eye: at what I have done in school so far<br>
 
-:arrow_backward:999 :seedling: School Exercises (Obligatory) :blossom:<br>
+:arrow_backward:999 :seedling: Obligatory School Exercises :blossom:<br>
             :wavy_dash:1-4 EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu<br>
             :wavy_dash:5 Garage 1 https://github.com/1x4x/5-walters-garage-array<br>
             :wavy_dash:6 Garage 2 https://github.com/1x4x/6-walters-garage-2-list<br>
