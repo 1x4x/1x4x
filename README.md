@@ -1,11 +1,9 @@
-`#ffffff`sfdgsdfgsdfg
-# :first_quarter_moon_with_face: Welcome Im a happy developer
-Every day is a blessing since I get to build fantastic things together with my amazing Lexicon schoolclass friends
+# Welcome, I'm a happy developer :)
+Every day is a blessing since I get to build fantastic things. Our Lexicon school class is filled with amazing people.
 
-Throw an :eye: at what I have done so far in school<br>
-------
-:blush: <span style="color: green">**1-999**</span> School Exercises<br>
+# 👀 Throw one of your eyes at what I have done in school so far<br>
+<span style="color: green; font-weight: bold;">1-999</span> School Exercises<br>
 
-:blush: **1000-1999** <br>
+1000-1999<br>
 
-:blush: **2000-2999**<br>
+2000-2999<br>
