@@ -6,6 +6,6 @@ Throw an :eye: at what I have done so far in school<br>
 ------
 :blush: **1-999** School Exercises<br>
 
-:blush: `#0969DA`**1000-1999** <br>
+:blush: **1000-1999** <br>
 
 :blush: **2000-2999**<br>
