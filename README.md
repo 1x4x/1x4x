@@ -8,5 +8,5 @@ Every day is a blessing since I get to build fantastic things in our Lexicon sch
 + 1000-1999
 ! 2000-2999
 # 3000-3999
-@@ 4000-4999 @@
+@ 4000-4999
 ```
