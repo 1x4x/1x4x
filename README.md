@@ -5,7 +5,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 :arrow_backward:1000 :seedling: School Exercises :blossom:<br>
             :wavy_dash: EmployeeManager = 1,<br>
-            LoopsAndStrings = 2,<br>
+            :ballot_box_with_check:LoopsAndStrings = 2,<br>
             Exceptions = 3,<br>
             Encapsulation = 4,<br>
             Garage = 5,<br>
