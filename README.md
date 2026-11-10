@@ -1,4 +1,4 @@
-# Welcome Im a happy developer :)
+# :first_quarter_moon_with_face: Welcome Im a happy developer :blush:
 Every day is a blessing since i get to build fantastic things. Our Lexicon schoolclass is filled with amazing people.
 
 Throw an :eye: at what I have done so far in school<br>
