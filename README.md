@@ -1,5 +1,5 @@
-:first_quarter_moon_with_face: # Welcome, I'm a happy developer :)
-Every day is a blessing since I get to build fantastic things in our Lexicon school class is filled with amazing people.
+# Welcome, I'm a happy developer :first_quarter_moon_with_face:
+Every day I am building fantastic things together with amazing people in our Lexicon school class.
 
 # Throw an :eye: at what I have done in school so far<br>
 
