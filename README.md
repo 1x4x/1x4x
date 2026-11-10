@@ -4,7 +4,7 @@ Every day is a blessing since I get to build fantastic things together with my a
 
 Throw an :eye: at what I have done so far in school<br>
 ------
-:blush: **1-999** School Exercises<br>
+:blush: <span style="color: green">**1-999**</span> School Exercises<br>
 
 :blush: **1000-1999** <br>
 
