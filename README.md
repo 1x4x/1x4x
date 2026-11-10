@@ -9,7 +9,10 @@ Every day I am building fantastic things together with amazing people in our Lex
             Exceptions = 3,<br>
             Encapsulation = 4,<br>
             Garage = 5,<br>
-:arrow_backward:2000 Kattis [open.kattis.com](https://open.kattis.com/) https://open.kattis.com/<br>
+:arrow_backward:2000 Kattis [open.kattis.com](https://open.kattis.com/) 
+![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba) "Kattis")
+
+<br>
             FizzBuzz = 1000,
             MaximumNumber = 1001,
             SortTwoNumbers = 1002     
