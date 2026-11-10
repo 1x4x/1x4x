@@ -14,7 +14,7 @@ Every day I am building fantastic things together with amazing people in our Lex
             :wavy_dash:1000 FizzBuzz<br>
             :wavy_dash:1001 MaximumNumber<br>
             :wavy_dash:1002 SortTwoNumbers<br>  
-:arrow_backward:2999<br>
+:arrow_backward:2999 :trident: Non obligatory school practises<br>
 :arrow_backward:3999<br>
 
  
