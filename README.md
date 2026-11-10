@@ -4,10 +4,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 # Throw an :eye: at what I have done in school so far<br>
 
 :arrow_backward:999 :seedling: School Exercises :blossom:<br>
-            :wavy_dash:1 EmployeeManager https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu<br>
-            :wavy_dash:2 LoopsAndStrings<br>
-            :wavy_dash:3 Exceptions<br>
-            :wavy_dash:4 Encapsulation<br>
+            :wavy_dash:1-4 EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu<br>
             :wavy_dash:5 Garage<br>
 :arrow_backward:1999 :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
 <br>
