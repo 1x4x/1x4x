@@ -2,7 +2,7 @@
 Every day is a blessing since I get to build fantastic things. Our Lexicon school class is filled with amazing people.
 
 # 👀 Throw one of your eyes at what I have done in school so far<br>
-<span style="color: green; font-weight: bold;">1-999</span> School Exercises<br>
+<font color="green"><b>1-999</b></font> School Exercises<br>
 
 1000-1999<br>
 
