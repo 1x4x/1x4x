@@ -9,7 +9,7 @@ Every day I am building fantastic things together with amazing people in our Lex
             Exceptions = 3,<br>
             Encapsulation = 4,<br>
             Garage = 5,<br>
-:arrow_backward:2000 Kattis [open.kattis.com](https://open.kattis.com/) :smiley_cat:
+:arrow_backward:2000 :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
 
 
 <br>
