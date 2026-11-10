@@ -4,16 +4,16 @@ Every day I am building fantastic things together with amazing people in our Lex
 # Throw an :eye: at what I have done in school so far<br>
 
 :arrow_backward:1000 :seedling: School Exercises :blossom:<br>
-            :wavy_dash: EmployeeManager = 1,<br>
-            :wavy_dash:LoopsAndStrings = 2,<br>
-            :wavy_dash:Exceptions = 3,<br>
-            :wavy_dash:Encapsulation = 4,<br>
-            :wavy_dash:Garage = 5,<br>
+            :wavy_dash:1 EmployeeManager<br>
+            :wavy_dash:2 LoopsAndStrings<br>
+            :wavy_dash:3 Exceptions<br>
+            :wavy_dash:4 Encapsulation<br>
+            :wavy_dash:5 Garage<br>
 :arrow_backward:2000 :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
-
-            :wavy_dash:FizzBuzz = 1000,
-            :wavy_dash:MaximumNumber = 1001,
-            :wavy_dash:SortTwoNumbers = 1002     
+<br>
+            :wavy_dash:FizzBuzz = 1000<br>
+            :wavy_dash:MaximumNumber = 1001<br>
+            :wavy_dash:SortTwoNumbers = 1002<br>  
 :arrow_backward:3000<br>
 :arrow_backward:4000<br>
 
