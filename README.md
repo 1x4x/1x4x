@@ -4,7 +4,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 # Throw an :eye: at what I have done in school so far<br>
 
 :arrow_backward:1000 :seedling: School Exercises :blossom:<br>
-            EmployeeManager = 1,<br>
+            :wavy_dash: EmployeeManager = 1,<br>
             LoopsAndStrings = 2,<br>
             Exceptions = 3,<br>
             Encapsulation = 4,<br>
