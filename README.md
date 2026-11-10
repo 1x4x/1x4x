@@ -1,4 +1,4 @@
-# Welcome, I'm a happy developer :first_quarter_moon_with_face::ghost:
+# Welcome, I'm a happy developer :first_quarter_moon_with_face::ghost::bust_in_silhouette::suspect::thought_balloon:
 Every day I am building fantastic things together with amazing people in our Lexicon school class.
 
 # Throw an :eye: at what I have done in school so far<br>
