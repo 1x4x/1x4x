@@ -20,7 +20,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 | :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 | ------------- |:-------------:| -----:|
-| [Vue](https://github.com/vuejs/vue) walter-super-trainer.walter.nu      | :wavy_dash: | :wavy_dash: |
+| [wst](https://walter-super-trainer.walter.nu) walter-super-trainer.walter.nu      | :wavy_dash: | :wavy_dash: |
 | :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
 | :wavy_dash: | :wavy_dash:      |    :wavy_dash: |
  
