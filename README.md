@@ -18,9 +18,9 @@ Every day I am building fantastic things together with amazing people in our Lex
 # :rainbow: Pet projects :first_quarter_moon_with_face:
 
 
-| Tables        | Are           | Cool  |
+| :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 | ------------- |:-------------:| -----:|
-| :wavy_dash:walter-super-trainer.walter.nu      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| [Vue](https://github.com/vuejs/vue) walter-super-trainer.walter.nu      | :wavy_dash: | :wavy_dash: |
+| :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
+| :wavy_dash: | :wavy_dash:      |    :wavy_dash: |
  
