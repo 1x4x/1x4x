@@ -17,7 +17,7 @@ Every day I am building fantastic things together with amazing people in our Lex
             :wavy_dash:1002 SortTwoNumbers<br>  
 <br>
 
-# :trident: School practises (otional)<br>
+# :trident: School practises (optional)<br>
 | :wavy_dash:        | :wavy_dpash:           | :wavy_dash:  |
 | ------------- |:-------------:| -----:|
 | [walter-super-trainer.walter.nu](https://walter-super-trainer.walter.nu)       | :wavy_dash: | helping me to stay in shape |
