@@ -27,7 +27,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 # :rainbow: Pet projects :first_quarter_moon_with_face:
 | o | o | o |
-| --- | :--- |
+| --- | :--- | :--- |
 | walter-life      | :wavy_dash:      |   :wavy_dash: |
 | s       | [walter-super-trainer.walter.nu](https://walter-super-trainer.walter.nu) | helping me to stay in shape |
 | :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
