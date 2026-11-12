@@ -18,14 +18,13 @@ Every day I am building fantastic things together with amazing people in our Lex
 <br>
 
 # :trident: School practises (optional)<br>
-| :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 | ------------- |:-------------:| -----:|
 | :wavy_dash:2000      | :wavy_dash:Product WebAPI      |   :wavy_dash: |
 | :wavy_dash:2001      | :wavy_dash:HttpClient consuming my Product WebAPI      |    :wavy_dash: |
+| :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 
 
 # :rainbow: Pet projects :first_quarter_moon_with_face:
-| :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 | ------------- |:-------------:| -----:|
 | [walter-super-trainer.walter.nu](https://walter-super-trainer.walter.nu)       | :wavy_dash: | helping me to stay in shape |
 | :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
