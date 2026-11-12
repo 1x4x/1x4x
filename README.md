@@ -10,14 +10,22 @@ Every day I am building fantastic things together with amazing people in our Lex
             :wavy_dash:7 linq https://github.com/1x4x/7-linq<br>
             :wavy_dash:8 Interface https://github.com/1x4x/8-interface<br>
             :wavy_dash:9 Garage 3 https://github.com/1x4x/9-walters-garage-3-generics<br>
-  :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
+            :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
 <br>
             :wavy_dash:1000 FizzBuzz<br>
             :wavy_dash:1001 MaximumNumber<br>
             :wavy_dash:1002 SortTwoNumbers<br>  
-:trident: School practises (otional)<br>
-:wavy_dash:2000 Product WebAPI<br>
-:wavy_dash:2001 HttpClient consuming my Product WebAPI<br>
+            :trident: School practises (otional)<br>
+            :wavy_dash:2000 Product WebAPI<br>
+            :wavy_dash:2001 HttpClient consuming my Product WebAPI<br>
+
+| :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
+| ------------- |:-------------:| -----:|
+| [walter-super-trainer.walter.nu](https://walter-super-trainer.walter.nu)       | :wavy_dash: | helping me to stay in shape |
+| :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
+| :wavy_dash: | :wavy_dash:      |    :wavy_dash: |
+
+
 # :rainbow: Pet projects :first_quarter_moon_with_face:
 
 
