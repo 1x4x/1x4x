@@ -19,9 +19,9 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 # :trident: School practises (optional)<br>
 | o | o | o |
-| :--- | :--- | :--- |
-| :wavy_dash:2000      | :wavy_dash:Product WebAPI      |   :wavy_dash: |
-| :wavy_dash:2001      | :wavy_dash:HttpClient consuming my Product WebAPI      |    :wavy_dash: |
+| --- | :--- | :--- |
+| 2000      | :wavy_dash:Product WebAPI      |   :wavy_dash: |
+| 2001      | :wavy_dash:HttpClient consuming my Product WebAPI      |    :wavy_dash: |
 | :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 
 
