@@ -17,12 +17,6 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 <br>
 <br>
-            :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/) 
-<br>
-            :wavy_dash:1000 FizzBuzz<br>
-            :wavy_dash:1001 MaximumNumber<br>
-            :wavy_dash:1002 SortTwoNumbers<br>  
-<br>
 
 # :trident: School practises (optional)<br>
 | :wavy_dash: | :wavy_dash: | :wavy_dash: |
@@ -40,3 +34,19 @@ Every day I am building fantastic things together with amazing people in our Lex
 | :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
 | :wavy_dash:      | :wavy_dash:      |    :wavy_dash: |
  
+
+
+
+
+# :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/)<br>
+| :wavy_dash: | :wavy_dash: | :wavy_dash: |
+| --- | :--- | :--- |
+| 1000      | FizzBuzz      |   :wavy_dash: |
+| 1001      | MaximumNumber      |    :wavy_dash: |
+| 1002      | SortTwoNumbers      |    :wavy_dash: |
+| :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
+
+             
+<br>
+
+<br>
