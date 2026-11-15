@@ -30,7 +30,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 | :wavy_dash: | :wavy_dash: | :wavy_dash: |
 | --- | :--- | :--- |
 | walter-life      | :wavy_dash:      |   :wavy_dash: |
-| s       | [walter-super-trainer.walter.nu](https://walter-super-trainer.walter.nu) | helping me stay in shape while in the education |
+| wst       | helping me stay in shape while in the education | [walter-super-trainer.walter.nu](https://walter-super-trainer.walter.nu) | 
 | :wavy_dash:      | :wavy_dash:      |   :wavy_dash: |
 | :wavy_dash:      | :wavy_dash:      |    :wavy_dash: |
  
