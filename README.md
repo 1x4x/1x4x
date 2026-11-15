@@ -25,6 +25,8 @@ Every day I am building fantastic things together with amazing people in our Lex
 | 2001      | HttpClient consuming my Product WebAPI      |    :wavy_dash: |
 | :wavy_dash:        | :wavy_dash:           | :wavy_dash:  |
 
+<br>
+<br>
 
 # :rainbow: Pet projects :first_quarter_moon_with_face:
 | :wavy_dash: | :wavy_dash: | :wavy_dash: |
@@ -35,7 +37,8 @@ Every day I am building fantastic things together with amazing people in our Lex
 | :wavy_dash:      | :wavy_dash:      |    :wavy_dash: |
  
 
-
+<br>
+<br>
 
 
 # :smiley_cat: Kattis [open.kattis.com](https://open.kattis.com/)<br>
@@ -48,5 +51,4 @@ Every day I am building fantastic things together with amazing people in our Lex
 
              
 <br>
-
 <br>
