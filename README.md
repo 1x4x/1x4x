@@ -13,6 +13,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 | 7        | linq           | [[:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)](https://github.com/1x4x/7-linq)  |
 | 8        | Interface           | https://github.com/1x4x/8-interface  |
 | 9        | Garage 3           | https://github.com/1x4x/9-walters-garage-3-generics  |
+| 10        | Databases 1 - Primary key, secondary key, relations          | https://github.com/1x4x/10-databases/  |
 <br>
             :wavy_dash:1-4 EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu<br>
             :wavy_dash:5 Garage 1 https://github.com/1x4x/5-walters-garage-array<br>
