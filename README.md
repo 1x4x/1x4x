@@ -8,8 +8,8 @@ Every day I am building fantastic things together with amazing people in our Lex
 | Number | Excersise | Content | Demo |
 | --- | :--- | :--- | :--- |
 | 1-4      | E | EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation     |   [:wavy_dash:](https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu) |
-| 5      | Garage 1 | Array    |    [:wavy_dash:](https://github.com/1x4x/5-walters-garage-array) |
-| 6        | Garage 2 | List         | [:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)  |
+| 5      | Garage 1 | array, object-oriented programming    |    [:wavy_dash:](https://github.com/1x4x/5-walters-garage-array) |
+| 6        | Garage 2 | list, object-oriented programming        | [:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)  |
 | 7        | linq | where, select, orderby, orderbydescending, count, take, distinct, any, all, firstordefault, lastordefault, singleordefault, groupby, sum, average, min, max         | [:wavy_dash:](https://github.com/1x4x/7-linq)  |
 | 8        | Interface | shows multiple interfaces with different method signatures. demonstrates how one class can implement more than one interface and expose different behaviors
          | [:wavy_dash:](https://github.com/1x4x/8-interface)  |
