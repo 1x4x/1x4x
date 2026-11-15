@@ -5,7 +5,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 
 
 # Throw an :eye: at what I have done in school so far<br>
-| :wavy_dash: | :wavy_dash: | :wavy_dash: | :wavy_dash: |
+| Number | Excersise | Tech | Demo |
 | --- | :--- | :--- | :--- |
 | 1-4      | E | EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation     |   [:wavy_dash:](https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu) |
 | 5      | Garage 1 | array    |    [:wavy_dash:](https://github.com/1x4x/5-walters-garage-array) |
