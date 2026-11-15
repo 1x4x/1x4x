@@ -8,11 +8,11 @@ Every day I am building fantastic things together with amazing people in our Lex
 | :wavy_dash: | :wavy_dash: | :wavy_dash: | :wavy_dash: |
 | --- | :--- | :--- | :--- |
 | 1-4      | E | EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation     |   [:wavy_dash:](https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu) |
-| 5      | Garage 1 |     |    [:wavy_dash:](https://github.com/1x4x/5-walters-garage-array) |
-| 6        | Garage 2 |          | [:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)  |
-| 7        | linq |          | [[:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)](https://github.com/1x4x/7-linq)  |
-| 8        | Interface |          | https://github.com/1x4x/8-interface  |
-| 9        | Garage 3 |           | https://github.com/1x4x/9-walters-garage-3-generics  |
+| 5      | Garage 1 | array    |    [:wavy_dash:](https://github.com/1x4x/5-walters-garage-array) |
+| 6        | Garage 2 | list         | [:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)  |
+| 7        | linq | linq         | [[:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)](https://github.com/1x4x/7-linq)  |
+| 8        | Interface | Interface         | https://github.com/1x4x/8-interface  |
+| 9        | Garage 3 | Generics          | https://github.com/1x4x/9-walters-garage-3-generics  |
 | 10        | Databases 1 | Primary key, secondary key, relations          | https://github.com/1x4x/10-databases/  |
 <br>
             :wavy_dash:1-4 EmployeeManager, LoopsAndStrings, Exceptions, Encapsulation https://github.com/1x4x/1-2-3-4-empmgr-flowctrl-errorh-encapsu<br>
