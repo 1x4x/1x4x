@@ -12,7 +12,7 @@ Every day I am building fantastic things together with amazing people in our Lex
 | 6        | Garage 2 | List         | [:wavy_dash:](https://github.com/1x4x/6-walters-garage-2-list)  |
 | 7        | linq | Linq         | [:wavy_dash:](https://github.com/1x4x/7-linq)  |
 | 8        | Interface | Interface         | [:wavy_dash:](https://github.com/1x4x/8-interface)  |
-| 9        | Garage 3 | Generics          | [:wavy_dash:](https://github.com/1x4x/9-walters-garage-3-generics)  |
+| 9        | Garage 3 | object-oriented programming, generic collections, interfaces, linq, input validation, and automated unit testing          | [:wavy_dash:](https://github.com/1x4x/9-walters-garage-3-generics)  |
 | 10        | Databases 1 | Primary key, secondary key, relations          | [:wavy_dash:](https://github.com/1x4x/10-databases/)  |
 <br>
 <br>
